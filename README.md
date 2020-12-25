@@ -12,3 +12,9 @@ This is lossy compression, as we are discarding some of the information.
 To assess how much visual information we retained, we'll reconstruct the image from the limited number of PC.
 
 We'll see how good the reconstructed images are for different number of selecte components.
+
+##  Result
+
+<p align="center">
+<img src="./pca.png" alt="result">
+</p>
